@@ -18,7 +18,7 @@
 <details>
   <summary><h4>2. DirectX 게임 에디터</h4></summary>
   <blockquote>
-  <A href = "[https://youtu.be/7J49MRr7gqA](https://youtu.be/ufuEl-1fTyI)"><img src="./Resources/DirectX썸네일.png"></A>
+  <A href = "https://youtu.be/ufuEl-1fTyI"><img src="./Resources/DirectX썸네일.png"></A>
   진행 기간 :2024년 7월 15일 ~ 2024년 8월 18일
   </blockquote>
 </details>
