@@ -40,7 +40,7 @@
 <details>
 <summary><h4>2.대학교 졸업작품</h4></summary>
 <blockquote>
-<A href = "https://youtu.be/51uf22HsUq4" target = blank ><img src="./Resources/대학졸업작품썸네일.png"></A>
+<A href = "https://youtu.be/51uf22HsUq4"><img src="./Resources/대학졸업작품썸네일.png"></A>
 이미지 클릭 시 플레이영상으로 이어집니다.
 진행 기간 :2023년 8월 26일 ~ 2023년 10월 31일
 </blockquote>
