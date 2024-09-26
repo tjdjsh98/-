@@ -32,7 +32,7 @@
 <details>
 <summary><h4>1.대학교 게임프로그래밍 과제</h4></summary>
 <blockquote>
-<img src="./Resources/대학과제썸네일.png">
+<A href = "https://youtu.be/eS7HZhbB1gA"><img src="./Resources/대학과제썸네일.png"></A>
 진행 기간 :2023년 5월 3일 ~ 2023년 6월 13일
 </blockquote>
 </details>
