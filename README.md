@@ -7,24 +7,38 @@
 <h2>프로젝트</h3>
 <line>
 <h3>개인프로젝트</h3>
-<h4>1.2D 런앤 건 게임</h4>
-<blockquote>
-진행 기간 :2023년 1월 16일 ~ 2023년 4월 25일
-</blockquote>
-<h4>2. DirectX 게임 에디터</h4>
-<blockquote>
-진행 기간 :2024년 7월 15일 ~ 2024년 8월 18일
-</blockquote>
-<h4>3. 던전시커</h4>
+<details>
+   <summary><h4>1.2D 런앤 건 게임</h4></summary>
+  <blockquote>
+    진행 기간 :2023년 1월 16일 ~ 2023년 4월 25일
+  </blockquote>
+</details>
+  
+<details>
+  <summary><h4>2. DirectX 게임 에디터</h4></summary>
+  <blockquote>
+  진행 기간 :2024년 7월 15일 ~ 2024년 8월 18일
+  </blockquote>
+</details>
+
+<details>
+<summary><h4>3. 던전시커</h4></summary>
 <blockquote>
 진행 기간 :2024년 8월 21일 ~ 
 </blockquote>
+</details>
+
 <h3>대학과제</h3>
-<h4>1.대학교 게임프로그래밍 과제</h4>
+<details>
+<summary><h4>1.대학교 게임프로그래밍 과제</h4></summary>
 <blockquote>
 진행 기간 :2023년 5월 3일 ~ 2023년 6월 13일
 </blockquote>
-<h4>2.대학교 졸업작품</h4>
+</details>
+
+<details>
+</summary><h4>2.대학교 졸업작품</h4></summary>
 <blockquote>
 진행 기간 :2023년 8월 26일 ~ 2023년 10월 31일
 </blockquote>
+</details>
