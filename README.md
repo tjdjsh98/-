@@ -19,8 +19,9 @@ UnealEngine, Mysql
     <A href = "https://youtu.be/7J49MRr7gqA"><img src="./Resources/런앤 건 게임.png"></A>
     이미지 클릭 시 플레이영상으로 이어집니다.
     <blockquote>
-    진행 기간 : 2023년 1월 16일 ~ 2023년 4월 25일
-    주요 기술 : 유니티 에디터를 이용한 자동화
+    진행 기간 : 2023년 1월 16일 ~ 2023년 4월 25일 <br>
+    사용 기술 : 유니티, C# <br>
+    중점 사항 : 유니티 에디터를 이용한 자동화 <br>
     </blockquote>
   </blockquote>
 </details>
