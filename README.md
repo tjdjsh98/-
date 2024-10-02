@@ -13,7 +13,6 @@ UnealEngine, Mysql
 <h2>프로젝트</h3>
 <line>
 <h3>개인프로젝트</h3>
-<details>
    <summary><h4>1.2D 런앤 건 게임</h4></summary>
   <blockquote>
     <A href = "https://youtu.be/7J49MRr7gqA"><img src="./Resources/런앤건/런앤 건 게임.png"></A>
@@ -38,8 +37,6 @@ UnealEngine, Mysql
             <img src="./Resources/런앤건/카드데이터.png"style="width:49%;">
             <img src="./Resources/런앤건/에디터0.png"style="width:49%;">
           </div>
-    </details>
-    <details>
       <summary>맵 에디터 코드</summary>
           <div>
             <img src="./Resources/런앤건/맵에디터2.png" style="width:50%;">
@@ -52,45 +49,47 @@ UnealEngine, Mysql
     </details>
     </blockquote>
   </blockquote>
-</details>
   
-<details>
   <summary><h4>2. DirectX 게임 에디터</h4></summary>
   <blockquote>
   <A href = "https://youtu.be/ufuEl-1fTyI"><img src="./Resources/DirectX썸네일.png"></A>
         이미지 클릭 시 플레이영상으로 이어집니다.
     <blockquote>
-  진행 기간 :2024년 7월 15일 ~ 2024년 8월 18일
+      진행 기간 :2024년 7월 15일 ~ 2024년 8월 18일 <br>
+      사용 기술 : C++, DirectX, PhysX <br>
+      중점 사항 : DirectX를 활용한 에디터, PhysX를 이용한 물리작용 구현<br>
+      진행 역할 : 혼자서 진행 <br>
     </blockquote>
   </blockquote>
-</details>
 
-<details>
 <summary><h4>3. 던전시커</h4></summary>
 <blockquote>
-진행 기간 :2024년 8월 21일 ~ 
+진행 기간 :2024년 8월 21일 ~ <br>
+진행중~ <br>
+
 </blockquote>
-</details>
 
 <h3>대학과제</h3>
-<details>
 <summary><h4>1.대학교 게임프로그래밍 과제</h4></summary>
 <blockquote>
 <A href = "https://youtu.be/eS7HZhbB1gA"><img src="./Resources/대학과제썸네일.png"></A>
 이미지 클릭 시 플레이영상으로 이어집니다.
   <blockquote>
-  진행 기간 :2023년 5월 3일 ~ 2023년 6월 13일
+      진행 기간 :2023년 5월 3일 ~ 2023년 6월 13일 <br>
+      사용 기술 : C#, 유니티 <br>
+      중점 사항 : 다크소울류 전투 비슷하게 구현<br>
+      진행 역할 : 보스의 AI패턴 구현 <br>
     </blockquote>
 </blockquote>
-</details>
 
-<details>
 <summary><h4>2.대학교 졸업작품</h4></summary>
 <blockquote>
 <A href = "https://youtu.be/51uf22HsUq4"><img src="./Resources/대학졸업작품썸네일.png"></A>
 이미지 클릭 시 플레이영상으로 이어집니다.
    <blockquote>
-    진행 기간 :2023년 8월 26일 ~ 2023년 10월 31일
+    진행 기간 :2023년 8월 26일 ~ 2023년 10월 31일<br>
+     사용 기술 : C#,유니티 <br>
+      중점 사항 : C#으로 서버를 구현<br>
+      진행 역할 : 혼자서 진행 <br>
     </blockquote>
 </blockquote>
-</details>
