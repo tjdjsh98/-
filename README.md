@@ -22,6 +22,15 @@ UnealEngine, Mysql
     진행 기간 : 2023년 1월 16일 ~ 2023년 4월 25일 <br>
     사용 기술 : 유니티, C# <br>
     중점 사항 : 유니티 에디터를 이용한 자동화 <br>
+    진행 역할 : 이미지제작을 제외한 전반적인 부분 <br>
+    <details>
+        <summary>에디터 코드</summary>
+          <div>
+            <img src="./Resources/런앤건/에디터1.png" style="width:33%;">
+            <img src="./Resources/런앤건/에디터2.png"style="width:33%;">
+            <img src="./Resources/런앤건/에디터3.png"style="width:33%;">
+          </div>
+    </details>
     </blockquote>
   </blockquote>
 </details>
