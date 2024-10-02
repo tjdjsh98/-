@@ -16,7 +16,7 @@ UnealEngine, Mysql
 <details>
    <summary><h4>1.2D 런앤 건 게임</h4></summary>
   <blockquote>
-    <A href = "https://youtu.be/7J49MRr7gqA"><img src="./Resources/런앤 건 게임.png"></A>
+    <A href = "https://youtu.be/7J49MRr7gqA"><img src="./Resources/런앤건/런앤 건 게임.png"></A>
     이미지 클릭 시 플레이영상으로 이어집니다.
     <blockquote>
     진행 기간 : 2023년 1월 16일 ~ 2023년 4월 25일 <br>
@@ -24,11 +24,30 @@ UnealEngine, Mysql
     중점 사항 : 유니티 에디터를 이용한 자동화 <br>
     진행 역할 : 이미지제작을 제외한 전반적인 부분 <br>
     <details>
-        <summary>에디터 코드</summary>
+        <summary>카드 에디터 코드</summary>
+        <div>
+            <img src="./Resources/런앤건/csv이미지.png" style="width:50%;">
+            <img src="./Resources/런앤건/카드에디터0.png"style="width:49%;">
+          </div>
           <div>
-            <img src="./Resources/런앤건/에디터1.png" style="width:33%;">
-            <img src="./Resources/런앤건/에디터2.png"style="width:33%;">
-            <img src="./Resources/런앤건/에디터3.png"style="width:33%;">
+            <img src="./Resources/런앤건/에디터1.png" style="width:50%;">
+            <img src="./Resources/런앤건/에디터3.png"style="width:49%;">
+          </div>
+            자동화 코드를 사용하여 하단의 스크립트를 새로 만들어 카드를 추가해해줍니다.
+          <div>
+            <img src="./Resources/런앤건/카드데이터.png"style="width:49%;">
+            <img src="./Resources/런앤건/에디터0.png"style="width:49%;">
+          </div>
+    </details>
+    <details>
+      <summary>맵 에디터 코드</summary>
+          <div>
+            <img src="./Resources/런앤건/맵에디터2.png" style="width:50%;">
+            <img src="./Resources/런앤건/맵에디터3.png"style="width:49%;">
+          </div>
+            에디터 코드를 작성해서 에디터를 수정하기 편하게 만들어주었습니다.
+          <div>
+            <img src="./Resources/런앤건/에디터4.png">
           </div>
     </details>
     </blockquote>
