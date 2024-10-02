@@ -37,6 +37,8 @@ UnealEngine, Mysql
             <img src="./Resources/런앤건/카드데이터.png"style="width:49%;">
             <img src="./Resources/런앤건/에디터0.png"style="width:49%;">
           </div>
+    </details>
+    <details>
       <summary>맵 에디터 코드</summary>
           <div>
             <img src="./Resources/런앤건/맵에디터2.png" style="width:50%;">
